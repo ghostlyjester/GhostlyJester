@@ -1,18 +1,15 @@
-### Nasir Nolan 
-a college student working towards network & information security 
+# <p align="center">Your Name - Web Developer</p>
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*F4t8-xz-b98ZcvEH.gif" alt="Your Name - Profile GIF" width="250">
+</p>
+
+## About Me
+Im a College Student who is studing Computer Science and aspires to be in the cybersecurity field
 
 
-<!--
-**ghostlyjester/GhostlyJester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="50">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+- GitHub: [github.com/yourusername](https://github.com/yourusername)
