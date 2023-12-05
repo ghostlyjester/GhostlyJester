@@ -1,4 +1,5 @@
 ### Nasir Nolan 
+a college student working towards network & information security 
 
 <!--
 **ghostlyjester/GhostlyJester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
