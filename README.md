@@ -12,4 +12,4 @@ Im a College Student who is studing Computer Science and aspires to be in the cy
 
 ## Contact Me
 - LinkedIn: [linkedin.com/in/nasir-nolan](https://www.linkedin.com/in/nasir-nolan-905286264/)
-- GitHub: [github.com/GhostlyJester]https://github.com/ghostlyjester)
+- GitHub: [github.com/GhostlyJester](https://github.com/ghostlyjester)
