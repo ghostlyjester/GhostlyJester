@@ -11,5 +11,5 @@ Im a College Student who is studing Computer Science and aspires to be in the cy
 <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="50">
 
 ## Contact Me
-- LinkedIn: [linkedin.com/in/nasir-nolan](https:/www.linkedin.com/in/nasir-nolan)
+- LinkedIn: [linkedin.com/in/nasir-nolan](https://www.linkedin.com/in/nasir-nolan-905286264/)
 - GitHub: [github.com/yourusername](https://github.com/yourusername)
